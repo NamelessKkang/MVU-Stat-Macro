@@ -1,0 +1,9 @@
+{
+    "name": "MVU Stat Macro",
+    "display_name": "MVU Stat Macro",
+    "version": "1.0.0",
+    "author": "Antigravity",
+    "description": "Provides {{get_mvu_stat::variable}} macro to access stat_data from JS-Slash-Runner variables, supporting nested conditions and swipe-aware history lookup.",
+    "loading_order": 100,
+    "js": "index.js"
+}
